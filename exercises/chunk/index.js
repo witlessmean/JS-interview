@@ -11,3 +11,8 @@
 function chunk(array, size) {}
 
 module.exports = chunk;
+
+
+
+
+//remember that index starts at zero but length starts at one. This is why arr.length - 1 works in order to get the last element. 
