@@ -1,3 +1,6 @@
-# AlgoCasts
 
-Companion repo to a course on Udemy.com
+
+
+push on branch: main
+
+example of running test for specific files: jest fib/test.js --watch
